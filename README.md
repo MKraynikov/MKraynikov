@@ -1,6 +1,28 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Mikhail Kraynikov and I'm full stack developer. I'm from Russian Federation, living in Moscow Region and currently working at PJSC Moscow City Telephone Network. You can message me on Telegram - @FujiKura.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MKraynikov.MKraynikov)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class FullStackDeveloper:
+
+    def __init__(self):
+        self.name = "Mikhail Kraynikov"
+        self.role = "Full Stack Developer"
+        self.language_spoken = ["ru_RU", "en_US"]
+        self.code = ["Python", "PHP", "JavaScript", "Vue", "React"]
+        self.tools = ["Docker", "Redis", "Elasticsearch", "Rabbitmq"]
+        self.tools_db = ["PostgreSQL", "MySQL", "SQL Server"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+        
+me = FullStackDeveloper()
+me.say_hi()
+```
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
