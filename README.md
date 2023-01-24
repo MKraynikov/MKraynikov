@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MKraynikov.MKraynikov)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![Waka Readme](https://github.com/MKraynikov/MKraynikov/workflows/Waka%20Readme/badge.svg)
 
 ```python
 #!/usr/bin/python
@@ -53,3 +54,6 @@ me.say_hi()
 <a href="https://github.com/MKraynikov/small_company_CRM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MKraynikov&repo=small_company_CRM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
