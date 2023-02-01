@@ -17,6 +17,7 @@ jobs:
           BRANCH: "master"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           STATS_RANGE: "last_7_days"
+          SHOW_OS: "True"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
