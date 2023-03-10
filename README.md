@@ -58,7 +58,7 @@ me.say_hi()
 ## &#x1f4c8; Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -105,7 +105,7 @@ Sunday                   7 commits           █░░░░░░░░░░�
 💬 Programming Languages: 
 Python                   1 hr 35 mins        █████████████░░░░░░░░░░░░   51.21 % 
 YAML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
 .env file                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 Docker                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
@@ -125,5 +125,5 @@ Python                   35 repos            ███████████�
 
 
 
- Last Updated on 09/03/2023 00:30:21 UTC
+ Last Updated on 10/03/2023 00:30:10 UTC
 <!--END_SECTION:waka-->
