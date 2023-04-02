@@ -58,7 +58,7 @@ me.say_hi()
 ## &#x1f4c8; Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -117,11 +117,12 @@ Mac                      7 mins              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            █████████████████████████   100.00 % 
+Python                   35 repos            ████████████████████████░   97.22 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 01/04/2023 00:28:21 UTC
+ Last Updated on 02/04/2023 00:28:50 UTC
 <!--END_SECTION:waka-->
