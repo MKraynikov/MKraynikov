@@ -58,15 +58,15 @@ me.say_hi()
 ## &#x1f4c8; Wakatime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.7 kB Used in GitHub's Storage 
+> 📦 18.6 kB Used in GitHub's Storage 
  > 
 > 🏆 278 Contributions in the Year 2023
  > 
@@ -103,17 +103,17 @@ Sunday                   18 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-Python                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Docker                   1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Markdown                 1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Python                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Docker                   1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs               █████████████████████████   100.00 % 
+PyCharm                  7 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs               █████████████████████████   100.00 % 
+Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -127,5 +127,5 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2023 08:02:13 UTC
+ Last Updated on 05/05/2023 00:25:26 UTC
 <!--END_SECTION:waka-->
